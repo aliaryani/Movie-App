@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  width: 200px !important;
+} */
+/* @layer components {
+  .swiper-slide {
+    @apply !w-4;
+  }
+} */
