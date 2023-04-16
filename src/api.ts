@@ -1,5 +1,5 @@
 import axios from "axios";
-var API_URL = process.env.NEXT_PUBLIC_API_URL as string;
+var API_URL = "https://www.omdbapi.com/?apikey=1ab6999d&s=all";
 
 interface Response {
   Search: Movie[];
